@@ -1,6 +1,4 @@
-install.packages("tidyverse")
 library(tidyverse)
-install.packages("NHSRplotthedots")
 library(NHSRplotthedots)
 
 # read data in from a csv file
