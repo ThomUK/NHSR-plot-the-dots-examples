@@ -28,7 +28,8 @@ Sections to write:
     1. The two main outputs
         1. Chart
         1. Underlying dataframe
-    1. Main differences vs. excel (awareness, not detailto be aware of
+    1. Main differences vs. excel (awareness, not detailed)
+    1. Removing error message for <12 points (here be monsters):  `options("ptd_spc.warning_threshold" = 0)`
 
 1. Package options
     1. Faceting
