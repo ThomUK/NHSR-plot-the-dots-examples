@@ -14,6 +14,7 @@ Sections to write:
 1. Background
     1. SPC, Making Data Count - reccommended videos
     1. NHSRplotthedots - origin story and how it came to be
+        1. Other SPC packages {qicharts}, {qcc}, {runcharter}
     1. Link to the podcast episode
 
 1. Get Started with the package
@@ -27,6 +28,7 @@ Sections to write:
     1. The two main outputs
         1. Chart
         1. Underlying dataframe
+    1. Main differences vs. excel (awareness, not detailto be aware of
 
 1. Package options
     1. Faceting
